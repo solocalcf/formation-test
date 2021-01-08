@@ -24,7 +24,7 @@ namespace banque_simple
             Assert.IsNotNull(compte);
             Assert.AreEqual(568963, compte.Numero);
             Assert.AreEqual(5000.00, compte.Solde, 0);
-            Assert.AreEqual("smartin@gmail.com", compte.ReferenceClient);
+            Assert.AreEqual("smartin@gmail.coms", compte.ReferenceClient);
         }
 
         [Test]
