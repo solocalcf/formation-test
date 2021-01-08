@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" duration="44.815823" testcasecount="10" total="10" passed="10" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 14:55:42Z" end-time="2021-01-08T 14:56:29Z">
+  <test-suite type="Assembly" name="banque-charp-local.dll" fullname="C:\projets-git\git-banque\bin\Debug\netcoreapp3.0\banque-charp-local.dll" total="10" passed="10" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:56:28Z" duration="44.815822999999995">
+    <test-suite type="TestSuite" name="banque_simple" fullname="banque_simple" total="8" passed="8" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="0.013677">
+      <test-suite type="TestFixture" name="CompteTest" fullname="banque_simple.CompteTest" total="8" passed="8" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="0.013677">
+        <test-case name="testCompte" fullname="banque_simple.CompteTest.testCompte" methodname="testCompte" classname="CompteTest" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="0.006372999999999999" asserts="0" />
+        <test-case name="testCompteLongDoubleString" fullname="banque_simple.CompteTest.testCompteLongDoubleString" methodname="testCompteLongDoubleString" classname="CompteTest" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="0.006673999999999999" asserts="0" />
+        <test-case name="testGetNumero" fullname="banque_simple.CompteTest.testGetNumero" methodname="testGetNumero" classname="CompteTest" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="0.00011499999999999999" asserts="0" />
+        <test-case name="testGetReferenceClient" fullname="banque_simple.CompteTest.testGetReferenceClient" methodname="testGetReferenceClient" classname="CompteTest" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="8.8E-05" asserts="0" />
+        <test-case name="testGetSolde" fullname="banque_simple.CompteTest.testGetSolde" methodname="testGetSolde" classname="CompteTest" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="7.4E-05" asserts="0" />
+        <test-case name="testSetNumero" fullname="banque_simple.CompteTest.testSetNumero" methodname="testSetNumero" classname="CompteTest" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="0.00013099999999999999" asserts="0" />
+        <test-case name="testSetReferenceClient" fullname="banque_simple.CompteTest.testSetReferenceClient" methodname="testSetReferenceClient" classname="CompteTest" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="0.00010999999999999999" asserts="0" />
+        <test-case name="testSetSolde" fullname="banque_simple.CompteTest.testSetSolde" methodname="testSetSolde" classname="CompteTest" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:44Z" duration="0.000112" asserts="0" />
+      </test-suite>
+    </test-suite>
+    <test-suite type="TestSuite" name="UnknownNamespace" fullname="UnknownNamespace" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:56:28Z" duration="44.802146">
+      <test-suite type="TestFixture" name="Testbanque1Test" fullname="UnknownNamespace.Testbanque1Test" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:47Z" duration="3.299833">
+        <test-case name="testbanque1" fullname="UnknownNamespace.Testbanque1Test.testbanque1" methodname="testbanque1" classname="Testbanque1Test" result="Passed" start-time="2021-01-08T 14:55:44Z" end-time="2021-01-08T 14:55:47Z" duration="3.299833" asserts="0" />
+      </test-suite>
+      <test-suite type="TestFixture" name="Testbanque1TestFirefox" fullname="UnknownNamespace.Testbanque1TestFirefox" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 14:55:47Z" end-time="2021-01-08T 14:56:28Z" duration="41.502313">
+        <test-case name="testbanque1" fullname="UnknownNamespace.Testbanque1TestFirefox.testbanque1" methodname="testbanque1" classname="Testbanque1TestFirefox" result="Passed" start-time="2021-01-08T 14:55:47Z" end-time="2021-01-08T 14:56:28Z" duration="41.502313" asserts="0" />
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>
